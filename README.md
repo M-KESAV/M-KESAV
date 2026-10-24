@@ -1,7 +1,7 @@
 
 # Hi, I'm Kesav M. 👋
 
-### Aspiring Software Engineer | Full-Stack Development & AI
+### Aspiring AI Software Engineer | Full Stack AI Engineer
 
 💻 Interested in building practical, scalable software applications.  
 🤖 Exploring AI integration, LLMs, and intelligent application development.  
