@@ -35,14 +35,11 @@ Panimalar Engineering College, Chennai
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend Development**
@@ -158,17 +155,6 @@ An AI-powered wearable vision assistance solution designed to help visually impa
 - **SQL Basic, Intermediate & Advanced** – HackerRank, 2025.
 - **HTML, CSS, JavaScript, React – Online Certification Course** – Udemy, 2025.
 - **Complete Java Programming Bootcamp** – Udemy, 2024.
-
----
-
-### 🌱 Currently Learning & Exploring
-
-- Advanced Retrieval-Augmented Generation (RAG).
-- LLM application development and evaluation.
-- AI agents and multi-agent workflows.
-- Vector databases and semantic search.
-- Backend engineering and API development.
-- Scalable full-stack application architecture.
 
 ---
 
